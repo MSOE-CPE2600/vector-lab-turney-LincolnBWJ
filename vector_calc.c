@@ -127,7 +127,7 @@ int main(int argc, char *argv[])
     }
 
     char input[100];
-    printf("Welcome to simple vector calculator \n");
+    printf("Welcome to simple vector calculator - LincolnBWJ\n");
     printf("Commands: list, clear, quit, help\n");
     printf("Use form: a = 1 2 3 | c = a + b | d = a * 2\n");
 
